@@ -4,7 +4,7 @@ This repository contains reference files for identifying aquaporin genes in the 
 
 Contributors
 
-Elijah Standlee, Hannah Rudd, Lisa Suarez, Maddy Skinner, Mark Griffith, Tim Ripper
+Elijah S., Hannah R., Lisa S., Maddy S., Mark G., Tim R.
 
 Boise State University
 
